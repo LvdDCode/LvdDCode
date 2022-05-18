@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LvdDCode
 - 👀 I’m interested in Bioinformatics
-- 🌱 I’m currently learning R.
+- 🌱 I’m currently learning R & Python
 - 💞️ I’m looking to collaborate on Bioinformatics topics
 - 📫 How to reach me ... to be continued later.
 
